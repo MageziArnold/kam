@@ -8,3 +8,7 @@ Why do people come close to us when they neeed something.when they get waht they
 
 
 Okay on the 22nd of July am again back to git and do my work smoothly
+   
+   Trying to teach Paul git
+
+
